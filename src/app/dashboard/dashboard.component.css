@@ -1,0 +1,30 @@
+.logo{
+    height: 10vh;
+    width: 12vw;
+}
+.example-card{
+    background-image: url('../../assets/bgcon.JPG');
+}
+.dropdown-menu{
+    background-image: url('../../assets/bgcon.JPG');
+}
+.example-card1{
+    background-color: greenyellow;
+    align-items: center;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.user-card1{
+    display: flex;
+    flex-direction: row;
+}
+.simg{
+    background-color: greenyellow;
+}
+.p2{
+    color: black;
+    font-size: small;
+}
+.h2{
+    color: navy;
+}

@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@gmail.com",
+      "name": "test",
+      "addresss": "pune",
+      "accountno": "12345",
+      "mobileno": "1234567890",
+      "password": "123456"
+    },
+    {
+      "email": "test1@gmail.com",
+      "name": "test1",
+      "address": "hghjgjh",
+      "accountno": "12345",
+      "mobileno": "1234567890",
+      "password": "test@1",
+      "id": 2
+    },
+    {
+      "email": "pratik@gmail.com",
+      "name": "pratik",
+      "address": "pune",
+      "accountno": "123456",
+      "mobileno": "1w23456789",
+      "password": "pratik@1",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "name": "test",
+      "address": "pune",
+      "accountno": "dgduiwsh93729",
+      "mobileno": "12ew456789",
+      "password": "test2@1",
+      "id": 4
+    },
+    {
+      "email": "email@domain.com",
+      "name": "name",
+      "address": "dummy address",
+      "accountno": "NCS999",
+      "mobileno": "1234567890",
+      "password": "pass@123",
+      "id": 5
+    },
+    {
+      "email": "test3@gmail.com",
+      "name": "test",
+      "address": "ihdiad",
+      "accountno": "ABP001",
+      "mobileno": "1234567890",
+      "password": "pass@123",
+      "id": 6
+    },
+    {
+      "email": "email@domaindom.com",
+      "name": "name",
+      "address": "add",
+      "accountno": "ABP009",
+      "mobileno": "1234567890",
+      "password": "Pass@123",
+      "id": 7
+    },
+    {
+      "email": "ncs@domain.com",
+      "name": "NNAAMMEE",
+      "address": "ADDRESS",
+      "accountno": "ACC12#",
+      "mobileno": "1234567890",
+      "password": "Pass@123",
+      "id": 8
+    },
+    {
+      "email": "deepak@gmail.com",
+      "name": "deepak",
+      "address": "pune",
+      "accountno": "1233er",
+      "mobileno": "1234567890",
+      "password": "deep@1",
+      "id": 9
+    },
+    {
+      "email": "test3@gmail.com",
+      "name": "test3",
+      "address": "pune",
+      "accountno": "12345rty",
+      "mobileno": "1234567890",
+      "password": "test@3",
+      "id": 10
+    },
+    {
+      "email": "test4@gmail.com",
+      "name": "test4",
+      "address": "pune",
+      "accountno": "12345rt",
+      "mobileno": "1234567989",
+      "password": "test@1",
+      "id": 11
+    },
+    {
+      "email": "test5@gmail.com",
+      "name": "test",
+      "address": "pune",
+      "accountno": "123456",
+      "mobileno": "1234567890",
+      "password": "test@5",
+      "id": 12
+    },
+    {
+      "email": "test6@gmail.com",
+      "name": "Test",
+      "address": "pune",
+      "accountno": "123445678",
+      "mobileno": "1234442344",
+      "password": "test@6",
+      "id": 13
+    },
+    {
+      "email": "abc@gmail.com",
+      "name": "abc",
+      "address": "pune",
+      "accountno": "22w3e",
+      "mobileno": "1234567890",
+      "password": "abc@123",
+      "id": 14
+    }
+  ]
+}

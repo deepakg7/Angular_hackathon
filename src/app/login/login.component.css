@@ -1,0 +1,19 @@
+
+.login-form{
+    align-items: center;
+    text-align: center;
+    margin-top: 10%;
+    /* background-color: black;  */
+}
+.input{
+   width: 30vw;
+}
+.container{
+    padding: 2%;
+    border-radius: 2%;
+    background-image: url(../../assets/bgcon.JPG);
+}
+.rlink{
+    color:burlywood;
+    font-size: medium;
+}

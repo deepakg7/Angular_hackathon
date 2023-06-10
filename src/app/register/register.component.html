@@ -1,0 +1,48 @@
+<form class="register-form" [formGroup]="registerForm" (ngSubmit)="signUp()">
+    <div class="field">
+        <h1><b>Welcome to ncs //</b></h1>
+        <mat-form-field class="input">
+            <mat-label>Email</mat-label>
+            <input matInput placeholder="Enter Email" formControlName="email">
+            <span class="err">{{getEmailError()}}</span>
+        </mat-form-field>
+        
+        <br>
+        <mat-form-field class="input">
+            <mat-label>Name</mat-label>
+            <input matInput placeholder="Enter Name" formControlName="name">
+            <span class="err">{{getNameError()}}</span>
+      </mat-form-field>
+      
+      <br>
+      <mat-form-field class="input">
+          <mat-label>Address</mat-label>
+          <input matInput placeholder="Enter Address" formControlName="address">
+        </mat-form-field>
+        
+        <br>
+      <mat-form-field class="input">
+        <mat-label>Account No</mat-label>
+        <input matInput placeholder="Enter Account No" formControlName="accountno">
+    </mat-form-field>
+    <br>
+    <mat-form-field class="input">
+        <mat-label>Mobile No</mat-label>
+        <input matInput placeholder="Enter Mobile No" formControlName="mobileno">
+        <span class="err">{{getMobileNoError()}}</span>
+    </mat-form-field>
+    
+    <br>
+    <mat-form-field class="input">
+        <mat-label>Password</mat-label>
+        <input matInput placeholder="Enter Password" type="password" formControlName="password">
+        <span class="err">{{getPasswordError()}}</span>
+      </mat-form-field>
+      
+<br>
+      <button class="btn btn-primary" type="submit">Register</button>
+      <br><br>
+      <a routerLink="/login" class="rlink">Already Registerd? Login</a>
+      
+    </div>
+    </form>

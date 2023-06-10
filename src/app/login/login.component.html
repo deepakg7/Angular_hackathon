@@ -1,0 +1,22 @@
+<div class="main-box">
+
+<form class="login-form" [formGroup]="loginForm" (ngSubmit)="login()">
+    <div class="container">
+
+        <mat-form-field class="input">
+            <mat-label>Email</mat-label>
+      <input matInput placeholder="Enter Email" formControlName="email">
+    </mat-form-field>
+    <br>
+    <mat-form-field class="input">
+        <mat-label>Password</mat-label>
+        <input matInput placeholder="Enter password" type="password" formControlName="password">
+    </mat-form-field>
+    <br>
+    <button class="btn btn-primary" type="submit">Login</button>
+    <br><br>
+    <a routerLink="/register" class="rlink">Not Registered?Regsiter</a>
+    
+    </div>
+  </form>
+</div>
